@@ -4,7 +4,7 @@
 I am a BSc computer science student with a profound interest in technology and a dedication to solving complex problems.
 My journey in computer science has led me to develop a passion for cybersecurity.
 
-## Skills
+<!-- ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -43,3 +43,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+-->
